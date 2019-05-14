@@ -1,4 +1,4 @@
-#Features include:
+# Features include:
 
 - Live reload in development
 - Webpack
